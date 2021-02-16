@@ -1,0 +1,14 @@
+JDCAUTH:
+
+xxxxxxxx
+JIMDBAUTH:
+xxxxxxxx
+
+
+JDCURL:
+
+redis-xxxxxxxxx.cn-north-1.redis.jdcloud.com
+
+JIMDBURL:
+
+xxx.xxx.xxx.xxx:xxxx
